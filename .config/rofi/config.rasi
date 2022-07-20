@@ -1,0 +1,6 @@
+configuration {
+ modi: "window,drun,ssh,combi";
+ font: "Noto Sans 14";
+ combi-modi: "window,drun,ssh";
+ }
+@theme "~/.config/rofi/themes/dracula1.rasi"
